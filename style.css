@@ -19,16 +19,16 @@
     padding: 0 0 0 20px;
     margin: 0;
 }
-.sidepane a, .sidepane a:visited, .sidepane a:active {
-    color: #00f !important;
+.sidepane a, .sidepane a:visited, .sidepane a:active, nav a, nav a:visited, nav a:active, a, a:visited, a:active {
+    color: #4eaaff !important;
     text-decoration: underline;
     font-size: 1.1em;
     margin: 0;
     background: none !important;
 }
-.sidepane a:hover {
+.sidepane a:hover, nav a:hover, a:hover {
     color: #fff !important;
-    background: #00f !important;
+    background: #4eaaff !important;
 }
 .container {
     width: 70%;
